@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.item{
+    width: 200px;
+    border: 20px solid brown;
+    padding: 5px;
+    margin: 20px auto;
+    background-color: azure;
+}
+.item img{
+    width: 150px;
+    height: 150px;
+    border-radius: 15%;
+}
+footer{
+    background-color: blanchedalmond;
+    color: black;
+    padding: 20px;
+}
+nav a{ 
+    color: burlywood;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.ts{
+    opacity: 0.5;
+}
